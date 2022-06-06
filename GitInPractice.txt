@@ -1,5 +1,1 @@
-First try of git commit
-
-Second try of git commit
-
-Third try
+Delete all
