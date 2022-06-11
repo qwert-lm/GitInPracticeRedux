@@ -3,3 +3,4 @@ Delete all
 some preface !
 some preface again
 git reset demo
+git pull --rebase
